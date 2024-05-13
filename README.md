@@ -1,6 +1,6 @@
 # gemini_project
 
-## Imersão Inteligência Artificial 2ª Edição
+## Imersão Inteligência Artificial 2ª Edição - Alura
 
 ###  Criando seu próprio ChatBot com a Gemini API no Google COlab
 
